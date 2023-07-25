@@ -1,5 +1,6 @@
 ¡Hola! Mi nombre es Jose Galvis 
 También conocido como JOSEGALVIS2115 en GitHub
+
 ¿Quién soy?
 Soy un Programador Fullstack orientado al diseño Front-end y creación de material visual.
 
